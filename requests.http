@@ -39,3 +39,6 @@ Content-Type: application/json
   "email": "updated@example.com",
   "password": "updated"
 }
+
+### Homepage
+GET http://localhost:3000/
